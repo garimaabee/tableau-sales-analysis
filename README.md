@@ -22,4 +22,4 @@ This project presents an interactive sales dashboard created in Tableau to analy
 
 ## Files
 - Sales Dashboard.twbx
-- dashboard.png
+- Tableu sales dashboard.png
